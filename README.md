@@ -1,4 +1,4 @@
-# Fetal-health-ML-classification-
+# Fetal-health-ML-classification
 
 In this project the objective is to use an obstetric dataset containing Cardiotocogram information from different fetuses to make a Machine Learning model that is able to classify the health of a fetus as Normal, Suspect or Pathological. The ultimate goal of this project is the early detection of fetal malformations incompatible with life in order to try to prevent avoidable maternal deaths.
 
@@ -7,6 +7,11 @@ The content of the notebook includes EDA, Feature engineering, and different ML 
   - unbalanced data respect to the target variable doing dimensionality reduction of the variables includes on the X through principal component analysis (PCA).
   - oversampling through synthetic minority oversampling technique (SMOTE) to balance the target variable.
   - oversampling through synthetic minority oversampling technique (SMOTE) to balance the target variable doing dimensionality reduction of the variables includes on the X through principal component analysis (PCA). 
+
+# Acknowledgements
+
+Ayres de Campos et al. (2000) SisPorto 2.0 A Program for Automated Analysis of Cardiotocograms. J Matern Fetal Med 5:311-318 
+Link ->. https://onlinelibrary.wiley.com/doi/10.1002/1520-6661(200009/10)9:5%3C311::AID-MFM12%3E3.0.CO;2-9
 
 # Metrics
 
